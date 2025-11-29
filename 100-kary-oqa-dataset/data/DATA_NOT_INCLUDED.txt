@@ -1,0 +1,4 @@
+This folder is a placeholder for the underlying k-ary OBJECTS attribute table.
+
+The 100-object attribute dataset used for these experiments is not included in this bundle.
+Only the entropy trajectories and summaries over 30 evaluation targets are provided here.
