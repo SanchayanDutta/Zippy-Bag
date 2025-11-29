@@ -1,1 +1,0 @@
-Ask k-ary attribute questions to identify the hidden item. Return only your next question.
